@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey everyone. I am currently working on a small project for a charity organisation that is deliberately made simple for accessibility since our demographics consist of users who are not tech-savvy. I am currently learning about React.
+Hey everyone. I am a graduate of Le Wagon Singapore coding bootcamp. My projects during the bootcamp are Cyclee and WhereWorks. 
+
+I am currently working on a small project for a charity organisation that is deliberately made simple for accessibility since our demographics consist of users who are not tech-savvy. I am currently learning about React.
 
 
 ## 🌐 Socials:
