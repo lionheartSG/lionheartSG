@@ -1,15 +1,21 @@
-# 💫 About Me:
-Hey everyone. I am a Full Stack Developer and a graduate of Le Wagon Singapore coding bootcamp. My projects during the bootcamp are Cyclee and WhereWorks. 
+# 💫 About Me
+Hey there! I am an **Ops-Tech Lead** blending 17 years of security leadership in the Singapore Police Force with full-stack development experience. I design, build, and deploy enterprise-grade applications such as **AI-powered e-Forms**, **custom integrated HRMS**, **AI RAG Chatbot**, and **multi-device intercom systems**. I also lead a full stack developer and collaborate across cross-functional teams to deliver end-to-end digital transformation projects, from architecture to deployment and user training.
 
-I am currently employed as a ReactJS developer.
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbms/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbms/) 
+## 💻 Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-%2300CFFF.svg?style=for-the-badge&logo=prisma&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Material UI](https://img.shields.io/badge/MaterialUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Zod](https://img.shields.io/badge/Zod-%23000000.svg?style=for-the-badge&logo=zapier&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 💻 Tech Stack:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lionheartSG&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lionheartSG&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lionheartSG&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
